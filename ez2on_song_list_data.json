@@ -6569,6 +6569,32 @@
             }
         }
     },
+    "Snow Dream (Remaster)": {
+      "4K": {
+        "EZ": 4,
+        "NM": 9,
+        "HD": 13,
+        "SHD": 15
+      },
+      "5K": {
+        "EZ": 3,
+        "NM": 7,
+        "HD": 12,
+        "SHD": 15
+      },
+      "6K": {
+        "EZ": 4,
+        "NM": 9,
+        "HD": 13,
+        "SHD": 15
+      },
+      "8K": {
+        "EZ": 4,
+        "NM": 8,
+        "HD": 13,
+        "SHD": 16
+      }
+    },    
     {
         "title": "Special K (ALTiTUNE Mix)",
         "series": "2013",
